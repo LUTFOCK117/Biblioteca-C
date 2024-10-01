@@ -27,7 +27,12 @@ usuario:1907995/contraseña:1907995
 
   ![image](https://github.com/user-attachments/assets/45e9dd41-a574-4a8b-8b51-b6c20e88ef38)
 
--
+- asi hasta terminar con los movimeintos que ibas a realizar, una vez ya hayas finalizado le das a la opcion 5 que es la de salir
+y cerrarar la pantalla de interaccion, de esta forma guardando los cambios realizados y podiendo verlo una vez que vuelas a correr el programa.
+
+![image](https://github.com/user-attachments/assets/1db23a6f-29a3-45fb-b17b-ad4e0da57917)
+
+
 
 
 
