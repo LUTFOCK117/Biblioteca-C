@@ -32,7 +32,7 @@ y cerrarar la pantalla de interaccion, de esta forma guardando los cambios reali
 
 ![image](https://github.com/user-attachments/assets/1db23a6f-29a3-45fb-b17b-ad4e0da57917)
 
-
+es un programa muy intuitivo con el que se puede trabajar con facilidad, y con opcion de actualizar para mejorar y agregar nuevas opciones.
 
 
 
