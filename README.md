@@ -5,4 +5,6 @@ renta de libros en una biblioteca
 
 ![image](https://github.com/user-attachments/assets/2ee34232-5d4f-4cdf-87bf-3154eb461335)
 
-- 
+- una vez teniendo el compilador, descargamos los archivos del repositorio para ejecutarlos.
+
+  
