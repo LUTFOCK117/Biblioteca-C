@@ -14,7 +14,20 @@ usuario:1907995/contraseña:1907995
 
 ![image](https://github.com/user-attachments/assets/01518fe6-7ddb-4d61-9c8d-957c4d481025)
 
+- una vez ya dentro, nos desplegara un menu, con el cual interactuaremos dependiendo lo que necesitemos realizar en ese momento.
 
+  ![image](https://github.com/user-attachments/assets/3ca5e896-8723-471a-80ea-2fc09cdd4f8f)
+
+- para elegir una ocpcion hay que escribir un numero del 1 al 5
+
+  ![image](https://github.com/user-attachments/assets/93053e7e-347b-4e20-8d62-6d2ac7c39b07)
+
+- ya dentro del apartado que elegiste, ahi puedes interactuar con las otras ocpciones disponibles para modificar la informacion
+  que se requiera
+
+  ![image](https://github.com/user-attachments/assets/45e9dd41-a574-4a8b-8b51-b6c20e88ef38)
+
+-
 
 
 
